@@ -32,4 +32,4 @@ You can choose no storage efficiency when creating a volume from BlueXP, or you 
 
 HA pairs aren't supported in some regions.
 
-https://cloud.netapp.com/cloud-volumes-global-regions[View the list of supported Azure regions^].
+https://bluexp.netapp.com/cloud-volumes-global-regions[View the list of supported Azure regions^].
