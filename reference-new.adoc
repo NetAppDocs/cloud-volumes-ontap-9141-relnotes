@@ -24,6 +24,11 @@ For your Cloud Volumes ONTAP systems, you might be prompted to upgrade to this h
 
 link:https://docs.netapp.com/us-en/console-setup-admin/whats-new.html#console-agent-4-12-0[Console agent 4.12.0^]
 
+== 9.14.1 P14 (16 October 2025)
+The 9.14.1 P14 patch is now available for Cloud Volumes ONTAP for all cloud providers. The Console will prompt you to upgrade your existing systems to this patch release.
+
+https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.14.1P14[View the list of bugs fixed in the P14 patch^] (NetApp Support Site login required).
+
 == 9.14.1 P13 (04 July 2025)
 The 9.14.1 P13 patch is now available for Cloud Volumes ONTAP for all cloud providers. BlueXP will prompt you to upgrade your existing systems to this patch release.
 
