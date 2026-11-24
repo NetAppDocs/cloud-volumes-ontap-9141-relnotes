@@ -17,8 +17,8 @@ Cloud Volumes ONTAP 9.14.1 includes new enhancements.
 
 Additional features and enhancements are also introduced in the latest versions of the NetApp Console. See the https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html[Cloud Volumes ONTAP Release Notes^] for details.
 
-== 9.14.1P18HF1 (2 November 2026)
-The 9.14.1P18HF1 patch is now available for Cloud Volumes ONTAP for all cloud providers. This patch is compatible with ONTAP hotfix for 9.14.1.
+== 9.14.1 P18HF1 (2 November 2026)
+The 9.14.1 P18HF1 patch is now available for Cloud Volumes ONTAP for all cloud providers. This patch is compatible with ONTAP hotfix for 9.14.1.
 
 For your Cloud Volumes ONTAP systems, you might be prompted to upgrade to this hotfix in the Console. However, this hotfix is supported only when the Console agent version is 4.12.0 or later. If the Console agent version is earlier than 4.12.0, ignore the prompt.
 
